@@ -1,3 +1,4 @@
+![truk deteksi_edit_0](https://user-images.githubusercontent.com/55156159/193336681-edbb8114-e6b1-47ce-9262-f7e7a05e8ef6.gif)
 
 
 https://user-images.githubusercontent.com/55156159/193336273-df548a01-44b9-4330-8efe-133e2a2c09f0.mp4
