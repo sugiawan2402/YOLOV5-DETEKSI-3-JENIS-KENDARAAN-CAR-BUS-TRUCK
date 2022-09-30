@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/55156159/193336273-df548a01-44b9-4330-8efe-133e2a2c09f0.mp4
+
 [truk deteksi.webm](https://user-images.githubusercontent.com/55156159/193336133-fe7a7a9a-8a47-49e7-904b-a07567bf1331.webm)
 ![car](https://user-images.githubusercontent.com/55156159/193335176-a9d563cd-a4bb-457a-ab4e-476f4fb73cef.PNG)
 ![truck](https://user-images.githubusercontent.com/55156159/193335209-8499e11e-ae76-4896-843d-1ddea39b9870.PNG)
